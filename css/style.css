@@ -96,7 +96,7 @@ body {
 header {
   width: 100%;
   background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),
-    url("/images/Bacground_Neww.jpg");
+    url("./images/Bacground_Neww.jpg");
   background-position: center;
   background-size: cover;
   position: relative;
